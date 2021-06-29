@@ -1,3 +1,4 @@
-#Hey you it's Rickroll website
-It redirects you to a youtube video
-By @crackingfactory
+# Hey you it's Rickroll website
+It redirects you somewhere open the link to see where 
+
+Love from @crackingfactory
